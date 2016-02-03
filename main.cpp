@@ -181,8 +181,5 @@ int main()
     t1.join();
     t2.join();*/
 
-    typedef int BELA;
-    BELA a = 10000;
-
     return 0;
 }
