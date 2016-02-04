@@ -78,6 +78,24 @@ public:
     }
 };
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 struct A{
     int a;
     double b;
